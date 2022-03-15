@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "create-react-app": "^5.0.0"
+    "axios": "^0.26.1",
+    "create-react-app": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "redux": "^4.1.2"
   }
 }

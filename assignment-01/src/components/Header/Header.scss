@@ -1,0 +1,14 @@
+@use "../../scss/color";
+
+.Header{
+  padding:40px;
+  padding-bottom: 120px;
+  h1{
+    color:white;
+    padding:1em;
+  }
+  h3{
+    color:color.$key-gray;
+    padding:0.4em;
+  }
+}

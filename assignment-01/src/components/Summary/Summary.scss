@@ -1,0 +1,28 @@
+@use "../../scss/color";
+.Summary{
+  width:100%;
+  max-width: 1280px;
+  color:white;
+
+  .style-01{
+    color:color.$key-red;
+  }
+  .style-02{
+    color:color.$key-teal;
+  }
+  .style-03{
+    color:color.$key-yellow;
+  }
+
+  .title{
+    font-size:48px;
+    padding:20px 0 20px 0;
+    font-weight: 700;
+    margin-top:36px;
+  }
+  p{
+    font-size:32px;
+    line-height: 1.5em;
+    padding: 10px 0 10px 0;
+  }
+}

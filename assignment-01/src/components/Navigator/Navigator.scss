@@ -1,0 +1,52 @@
+@use "../../scss/color";
+.Navigator{
+  width:100%;
+  max-width:720px;
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 40px;
+  position: relative;
+  .Navigator-button{
+    font-size:32px;
+    font-weight: 700;
+    cursor: pointer;
+    width:20%;
+    height:64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid;
+    border-radius: 24px;
+
+    &.style-01{
+      color:color.$key-red;
+      &:hover{
+        color:white;
+      }
+      &.selected{
+        color:white;
+        background-color: color.$key-red;
+      }
+    }
+    &.style-02{
+      color:color.$key-teal;
+      &:hover{
+        color:white;
+      }
+      &.selected{
+        color:white;
+        background-color: color.$key-teal;
+      }
+    }
+    &.style-03{
+      color:color.$key-yellow;
+      &:hover{
+        color:white;
+      }
+      &.selected{
+        color:white;
+        background-color: color.$key-yellow;
+      }
+    }
+  }
+}

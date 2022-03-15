@@ -1,0 +1,729 @@
+[
+  {
+    "time": "8:00",
+    "main": "기상",
+    "sub": "알람 해제",
+    "location": "집",
+    "detail" : {
+      "sub": {
+        "type": "text",
+        "content" : "총 세 개(8:00, 8:15, 8:30)"
+      }
+    }
+  },
+  {
+    "time": "8:15",
+    "main": "아침 식사",
+    "sub": "",
+    "location": "",
+    "detail" : {
+      "main": {
+        "type": "text",
+        "content" : "딸기 한 접시, 홍삼차 한 잔"
+      }
+    }
+  },
+  {
+    "time": "8:30",
+    "main": "등교 준비",
+    "sub": "",
+    "location": ""
+  },
+  {
+    "time": "8:45",
+    "main": "등교",
+    "sub": "날씨 확인, 버스 시간 확인 (1분)",
+    "location": "등굣길"
+  },
+  {
+   "time": "9:00",
+    "main": "등교",
+    "sub": "",
+    "location": ""
+  },
+  {
+    "time": "9:15",
+    "main": "등교",
+    "sub": "친구와 카카오톡 (5분)",
+    "location": "셔틀버스"
+  },
+  {
+    "time": "9:30",
+    "main": "강의(서양중세철학)",
+    "sub": "배드민턴 예약 (5분), 강의 녹음 시작",
+    "location": "8-303",
+    "detail" : {
+      "sub": {
+        "type": "text",
+        "content" : "핸드폰으로 로그인 실패하여 PC로 재시도",
+        "link": "https://athletics.snu.ac.kr/facility/list"
+      }
+    }
+  },
+  {
+    "time": "9:45",
+    "main": "강의(서양중세철학)",
+    "sub": "",
+    "location": ""
+  },
+  {
+    "time": "10:00",
+    "main": "강의(서양중세철학)",
+    "sub": "",
+    "location": ""
+  },
+  {
+    "time": "10:15",
+    "main": "강의(서양중세철학)",
+    "sub": "",
+    "location": ""
+  },
+  {
+    "time": "10:30",
+    "main": "강의(서양중세철학)",
+    "sub": "",
+    "location": ""
+  },
+  {
+    "time": "10:45",
+    "main": "강의(서양중세철학), 출석체크",
+    "sub": "etl로 출석체크(1분, 댓글달기)",
+    "location": ""
+  },
+  {
+    "time": "11:00",
+    "main": "도서관 이동, 노트북으로 오늘 업무 확인",
+    "sub": "친구와 카카오톡(2분), 핸드폰 사용량 체크 앱 (stayfree) 설치",
+    "location": "중도 2층"
+  },
+  {
+    "time": "11:15",
+    "main": "노트북으로 디지털에쓰노그래피 설문지 작성",
+    "sub": "",
+    "location": ""
+  },
+  {
+    "time": "11:30",
+    "main": "독서",
+    "sub": "",
+    "location": "",
+    "detail" : {
+      "main": {
+        "type": "text",
+        "content" : "책 제목: <면세 미술 : 지구 내전 시대의 미술>",
+        "link": "http://www.yes24.com/Product/Goods/97161464"
+      }
+    }
+  },
+  {
+    "time": "11:45",
+    "main": "독서",
+    "sub": "",
+    "location": "",
+    "detail" : {
+      "main": {
+        "type": "text",
+        "content" : "책 제목: <면세 미술 : 지구 내전 시대의 미술>",
+        "link": "http://www.yes24.com/Product/Goods/97161464"
+      }
+    }
+  },
+  {
+    "time": "12:00",
+    "main": "낮잠",
+    "sub": "친구와 카카오톡, 다음 강의실 확인 (5분)",
+    "location": ""
+  },
+  {
+    "time": "12:15",
+    "main": "낮잠",
+    "sub": "노트북으로 학식 메뉴 확인",
+    "location": ""
+  },
+  {
+    "time": "12:30",
+    "main": "논문 읽기",
+    "sub": "",
+    "location": ""
+  },
+  {
+    "time": "12:45",
+    "main": "논문 읽기",
+    "sub": "음악 듣기",
+    "location": ""
+  },
+  {
+    "time": "13:00",
+    "main": "논문 읽기",
+    "sub": "음악 듣기",
+    "location": ""
+  },
+  {
+    "time": "13:15",
+    "main": "도서 대여, 카페(중도 느나)로 이동",
+    "sub": "도서 대여 시 카카오톡, 모바일 학생증 사용",
+    "location": "중도 느나"
+  },
+  {
+    "time": "13:30",
+    "main": "점심 식사",
+    "sub": "친구와 카카오톡, 노트북으로 업무(와플스튜디오)",
+    "location": "",
+    "detail" : {
+      "main": {
+        "type": "text",
+        "content" : "햄치즈 샌드위치, 핫초코"
+      }
+    }
+  },
+  {
+    "time": "13:45",
+    "main": "점심 식사",
+    "sub": "다음 수업 준비",
+    "location": "",
+    "detail" : {
+      "main": {
+        "type": "text",
+        "content" : "햄치즈 샌드위치, 핫초코"
+      }
+    }
+  },
+  {
+    "time": "14:00",
+    "main": "강의(서양문명과 과학기술)",
+    "sub": "업무 잠깐 (Slack), 강의 녹음",
+    "location": "26-B101"
+
+  },
+  {
+    "time": "14:15",
+    "main": "강의(서양문명과 과학기술)",
+    "sub": "강의 녹음",
+    "location": ""
+  },
+  {
+    "time": "14:30",
+    "main": "강의(서양문명과 과학기술)",
+    "sub": "강의 녹음",
+    "location": ""
+  },
+  {
+    "time": "14:45",
+    "main": "강의(서양문명과 과학기술)",
+    "sub": "강의 녹음",
+    "location": ""
+  },
+  {
+    "time": "15:00",
+    "main": "학교 미술관 이동, 전시 관람",
+    "sub": "음악 듣기, 친구와 카카오톡",
+    "location": "미술관(MOA)",
+    "detail" : {
+      "main": {
+        "type": "text",
+        "content" : "전시명: <밤을 넘는 아이들>",
+        "link": "https://www.snu.ac.kr/snunow/snu_story?md=v&bbsidx=135197"
+      }
+    }
+  },
+  {
+    "time": "15:15",
+    "main": "전시 관람",
+    "sub": "",
+    "location": "",
+    "detail" : {
+      "main": {
+        "type": "text",
+        "content" : "전시명: <밤을 넘는 아이들>",
+        "link": "https://www.snu.ac.kr/snunow/snu_story?md=v&bbsidx=135197"
+      }
+    }
+  },
+  {
+    "time": "15:30",
+    "main": "전시 관람",
+    "sub": "",
+    "location": "",
+    "detail" : {
+      "main": {
+        "type": "text",
+        "content" : "전시명: <밤을 넘는 아이들>",
+        "link": "https://www.snu.ac.kr/snunow/snu_story?md=v&bbsidx=135197"
+      }
+    }
+  },
+  {
+    "time": "15:45",
+    "main": "전시 관람, 집으로 이동",
+    "sub": "음악 듣기",
+    "location": "하굣길"
+  },
+  {
+    "time": "16:00",
+    "main": "집으로 이동",
+    "sub": "음악 듣기, 모바일 웹서핑(전시 관련 검색, 이어폰 검색)",
+    "location": "셔틀 버스",
+    "detail": {
+      "sub": {
+        "type": "hyperList",
+        "name": "사용 기록",
+        "content": [{
+          "plain": "네이버 검색 기록: 영국국립코퍼스",
+          "link": "https://m.search.naver.com/search.naver?sm=mtp_hty.top&where=m&query=%EC%98%81%EA%B5%AD%EA%B5%AD%EB%A6%BD%EC%BD%94%ED%8D%BC%EC%8A%A4",
+          "etc": "(전시에서 본 용어 검색)"
+        },{
+          "plain": "네이버 검색 기록: 코퍼스",
+          "link": "https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&oquery=%EC%BD%94%ED%8D%BC&tqi=hAj%2FDdprvP4ssCSi0URssssstXd-208938&query=%EC%BD%94%ED%8D%BC%EC%8A%A4",
+          "etc": "(전시에서 본 용어 검색)"
+        },{
+          "plain": "네이버 검색 기록: corpus",
+          "link": "https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&oquery=%EC%BD%94%ED%8D%BC%EC%8A%A4&tqi=hAj%2FDwprvAdssewB0g8ssssstcd-109255&query=corpus",
+          "etc": "(전시에서 본 용어 검색)"
+        },{
+          "plain": "네이버 사전: corpus",
+          "link": "https://en.dict.naver.com/#/entry/enko/63d9277dfe5246de90eed8df92996627",
+          "etc": "(검색 결과에서 이동)"
+        },{
+          "plain": "구글 검색: 밤을 넘는 아이들",
+          "link": "https://www.google.com/search?q=%EB%B0%A4%EC%9D%84+%EB%84%98%EB%8A%94+%EC%95%84%EC%9D%B4%EB%93%A4&oq=%EB%B0%A4%EC%9D%84+%E3%84%B4&aqs=chrome.1.69i57j35i39j0i512j46i512.1679j1j4&client=ms-android-lge&sourceid=chrome-mobile&ie=UTF-8",
+          "etc": "(전시 이름 검색)"
+        },{
+          "plain": "어린이뉴스 기사: 가정에서 폭력으로 '밤을 넘는 아이들'...",
+          "link": "https://www.koreacen.com/news/articleView.html?idxno=10358",
+          "etc": "(검색 결과에서 이동)"
+        },{
+          "plain": "Babynews 기사: [스토리뉴스] 가정은 누구에게나 따뜻한 곳일까?",
+          "link": "https://www.ibabynews.com/news/articleView.html?idxno=101606",
+          "etc": "(검색 결과에서 이동)"
+        },{
+          "plain": "네이버 검색: wh-1000xm4",
+          "link": "https://m.search.naver.com/search.naver?sm=mtp_hty.top&where=m&query=%EC%86%8C%EB%8B%88+wh+1000xm4",
+          "etc": "(사려고 했던 헤드폰 검색)"
+        },{
+          "plain": "네이버 검색: wf-1000xm4 소니스토어",
+          "link": "https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&oquery=%EC%86%8C%EB%8B%88+wf+1000xm4+%EC%86%8C%EB%8B%88%EC%8A%A4%ED%86%A0%EC%95%84&tqi=hANuxsprvA4ss44FhSRssssste8-388681&query=%EC%86%8C%EB%8B%88+wf+1000xm4+%EC%86%8C%EB%8B%88%EC%8A%A4%ED%86%A0%EC%96%B4",
+          "etc": "(사려고 했던 이어폰 검색)"
+        },{
+          "plain": "네이버 블로그",
+          "link": "https://m.blog.naver.com/nightd/222522389769",
+          "etc": "(검색 결과에서 이동)"
+        },{
+          "plain": "네이버 블로그",
+          "link": " https://m.blog.naver.com/ahra-style/222446154284",
+          "etc": "(검색 결과에서 이동)"
+        },{
+          "plain": "네이버 지식인",
+          "link": "https://m.kin.naver.com/mobile/qna/detail.naver?d1id=5&dirId=511&docId=412368485&qb=7IaM64uI7Iqk7Yag7Ja0&enc=utf8&section=kin.ext&rank=3&search_sort=0&spq=0",
+          "etc": "(검색 결과, 관련 없는 내용)"
+        }]
+      }
+    }
+  },
+  {
+    "time": "16:15",
+    "main": "환복, 휴식",
+    "sub": "모바일 웹서핑(이어폰 검색), 유튜브 시청",
+    "location": "집",
+    "detail": {
+      "sub": {
+        "type": "hyperList",
+        "name": "유튜브 시청 기록",
+        "content": [
+          {
+            "plain": "GAYLE - abcdefu DRUM COVER By SUBIN",
+            "link": "https://www.youtube.com/watch?v=Falh5toPkhg",
+            "etc": "(유튜브 메인)"
+          },
+          {
+            "plain": "My Chemical Romance - Helena DRUM | COVER By SUBIN",
+            "link": "https://www.youtube.com/watch?v=HzwPpymDBC4&ab_channel=DrummerSubin",
+            "etc": "(자동 재생)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "time": "16:30",
+    "main": "휴식",
+    "sub": "유튜브 시청",
+    "location": "",
+    "detail": {
+      "sub": {
+        "type": "hyperList",
+        "name": "유튜브 시청 기록",
+        "content": [
+          {
+            "plain": "【그림 판당고】 7화 - 세가지 조건을 충족시켜라 (Grim Fandango)",
+            "link": "https://www.youtube.com/watch?v=gBN7SLLHS4g&ab_channel=%EC%B9%A8%EC%B0%A9%EB%A7%A8",
+            "etc": "(이전에 보던 영상)"
+          },
+          {
+            "plain": "【그림 판당고】 8화 - 로라가 남기고 간 증거 (Grim Fandango)",
+            "link": "https://www.youtube.com/watch?v=i4Fh7yGhXhc&ab_channel=%EC%B9%A8%EC%B0%A9%EB%A7%A8",
+            "etc": "(자동 재생)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "time": "16:45",
+    "main": "휴식",
+    "sub": "유튜브 시청",
+    "location": "",
+    "detail": {
+      "sub": {
+        "type": "hyperList",
+        "name": "유튜브 시청 기록",
+        "content": [
+          {
+            "plain": "【그림 판당고】 7화 - 세가지 조건을 충족시켜라 (Grim Fandango)",
+            "link": "https://www.youtube.com/watch?v=gBN7SLLHS4g&ab_channel=%EC%B9%A8%EC%B0%A9%EB%A7%A8",
+            "etc": "(이전에 보던 영상)"
+          },
+          {
+            "plain": "【그림 판당고】 8화 - 로라가 남기고 간 증거 (Grim Fandango)",
+            "link": "https://www.youtube.com/watch?v=i4Fh7yGhXhc&ab_channel=%EC%B9%A8%EC%B0%A9%EB%A7%A8",
+            "etc": "(자동 재생)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "time": "17:00",
+    "main": "낮잠",
+    "sub": "",
+    "location": ""
+  },
+  {
+    "time": "17:15",
+    "main": "낮잠",
+    "sub": "",
+    "location": ""
+  },
+  {
+    "time": "17:30",
+    "main": "휴식",
+    "sub": "카카오톡, 페이스북 확인, 노트북으로 웹서핑",
+    "location": "",
+    "detail": {
+      "sub": {"type":"text","content": "검색 내용: 가로수길 맛집 등"}
+    }
+  },
+  {
+    "time": "17:45",
+    "main": "할 일 정리",
+    "sub": "유튜브 틀어놓음",
+    "location": "",
+    "detail": {
+      "sub": {
+        "type": "hyperList",
+        "name": "유튜브 시청 기록",
+        "content": [
+          {
+            "plain": "안 해요 안 해",
+            "link": "https://www.youtube.com/watch?v=clk9rMS9GJ4&t=952s&ab_channel=%EC%B9%A8%EC%B0%A9%EB%A7%A8",
+            "etc": "(관련 동영상)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "time": "18:00",
+    "main": "할 일 정리",
+    "sub": "유튜브 틀어놓음",
+    "location": "",
+    "detail": {
+      "sub": {
+        "type": "hyperList",
+        "name": "유튜브 시청 기록",
+        "content": [
+          {
+            "plain": "안 해요 안 해",
+            "link": "https://www.youtube.com/watch?v=clk9rMS9GJ4&t=952s&ab_channel=%EC%B9%A8%EC%B0%A9%EB%A7%A8",
+            "etc": "(관련 동영상)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "time": "18:15",
+    "main": "할 일 정리",
+    "sub": "유튜브 틀어놓음",
+    "location": "",
+    "detail": {
+      "sub": {
+        "type": "hyperList",
+        "name": "유튜브 시청 기록",
+        "content": [
+          {
+            "plain": "안 해요 안 해",
+            "link": "https://www.youtube.com/watch?v=clk9rMS9GJ4&t=952s&ab_channel=%EC%B9%A8%EC%B0%A9%EB%A7%A8",
+            "etc": "(관련 동영상)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "time": "18:30",
+    "main": "와플스튜디오 업무 정리",
+    "sub": "잠깐 유튜브 시청",
+    "location": "",
+    "detail": {
+      "sub": {
+        "type": "hyperList",
+        "name": "유튜브 시청 기록",
+        "content": [
+          {
+            "plain": "IU (아이유) - 라일락 lilac DRUM | COVER By SUBIN",
+            "link": "https://www.youtube.com/watch?v=PiLO01NJDWc&ab_channel=DrummerSubin",
+            "etc": "(유튜브 메인)"
+          },
+          {
+            "plain": "DemonSlayer_OP - Gurenge 【귀멸의 칼날 - 홍련화】 DRUM | COVER By SUBIN",
+            "link": "https://www.youtube.com/watch?v=Dos-y_6W-BM&ab_channel=DrummerSubin",
+            "etc": "(관련 동영상)"
+          },
+          {
+            "plain": "인생의 1/4을 포켓몬 연구에 쏟은 이소영 박사",
+            "link": "https://www.youtube.com/watch?v=pkXiOnXAO90&t=19s&ab_channel=%EC%B9%A8%EC%B0%A9%EB%A7%A8",
+            "etc": "(관련 동영상, 일부만 시청)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "time": "18:45",
+    "main": "와플스튜디오 업무 정리",
+    "sub": "",
+    "location": ""
+  },
+  {
+    "time": "19:00",
+    "main": "저녁 준비",
+    "sub": "",
+    "location": ""
+  },
+  {
+    "time": "19:15",
+    "main": "저녁식사",
+    "sub": "TV 시청(유튜브)",
+    "location": ""
+  },
+  {
+    "time": "19:30",
+    "main": "저녁식사",
+    "sub": "TV 시청(유튜브)",
+    "location": ""
+  },
+  {
+    "time": "19:45",
+    "main": "저녁식사",
+    "sub": "TV 시청(유튜브)",
+    "location": ""
+  },
+  {
+    "time": "20:00",
+    "main": "어머니와 대화",
+    "sub": "간간히 카카오톡 확인",
+    "location": ""
+  },
+  {
+    "time": "20:15",
+    "main": "어머니와 대화",
+    "sub": "간간히 카카오톡 확인",
+    "location": ""
+  },
+  {
+    "time": "20:30",
+    "main": "스케쥴 정리 (with 어머니)",
+    "sub": "타임트리 앱",
+    "location": ""
+  },
+  {
+    "time": "20:45",
+    "main": "스케쥴 정리 (with 어머니), 양치",
+    "sub": "타임트리 앱",
+    "location": ""
+  },
+  {
+    "time": "21:00",
+    "main": "친구랑 전화",
+    "sub": "",
+    "location": ""
+  },
+  {
+    "time": "21:15",
+    "main": "와플스튜디오 회의",
+    "sub": "간간히 카카오톡 확인",
+    "location": ""
+  },
+  {
+    "time": "21:30",
+    "main": "와플스튜디오 회의",
+    "sub": "간간히 카카오톡 확인",
+    "location": ""
+  },
+  {
+    "time": "21:45",
+    "main": "와플스튜디오 회의",
+    "sub": "간간히 카카오톡 확인",
+    "location": ""
+  },
+  {
+    "time": "22:00",
+    "main": "와플스튜디오 회의",
+    "sub": "",
+    "location": ""
+  },
+  {
+    "time": "22:15",
+    "main": "설거지",
+    "sub": "음악 재생(이어폰)",
+    "location": ""
+  },
+  {
+    "time": "22:30",
+    "main": "어머니와 대화",
+    "sub": "음악 재생(스피커)",
+    "location": "",
+    "detail": {
+      "main": {
+        "type": "text",
+        "content": "학업, 진행중인 프로그래밍 프로젝트 관련"
+      }
+    }
+  },
+  {
+    "time": "22:45",
+    "main": "어머니와 대화",
+    "sub": "음악 재생(스피커)",
+    "location": "",
+    "detail": {
+      "main": {
+        "type": "text",
+        "content": "학업, 진행중인 프로그래밍 프로젝트 관련"
+      }
+    }
+  },
+  {
+    "time": "23:00",
+    "main": "어머니와 대화",
+    "sub": "음악 재생(스피커)",
+    "location": "",
+    "detail": {
+      "main": {
+        "type": "text",
+        "content": "학업, 진행중인 프로그래밍 프로젝트 관련"
+      }
+    }
+  },
+  {
+    "time": "23:15",
+    "main": "어머니와 대화",
+    "sub": "음악 재생(스피커)",
+    "location": "",
+    "detail": {
+      "main": {
+        "type": "text",
+        "content": "학업, 진행중인 프로그래밍 프로젝트 관련"
+      }
+    }
+  },
+  {
+    "time": "23:30",
+    "main": "씻기",
+    "sub": "음악 재생(스피커)",
+    "location": ""
+  },
+  {
+    "time": "23:45",
+    "main": "씻기",
+    "sub": "음악 재생(스피커)",
+    "location": ""
+  },
+  {
+    "time": "0:00",
+    "main": "잘 준비",
+    "sub": "친구와 카카오톡 (2분), 트위치 방송 목록 확인",
+    "location": ""
+  },
+  {
+    "time": "0:15",
+    "main": "시나리오 작성",
+    "sub": "친구와 전화(5분)",
+    "location": ""
+  },
+  {
+    "time": "0:30",
+    "main": "시나리오 작성",
+    "sub": "트위치 시청(노트북)",
+    "location": ""
+  },
+  {
+    "time": "0:45",
+    "main": "시나리오 작성",
+    "sub": "트위치 시청(노트북)",
+    "location": ""
+  },
+  {
+    "time": "1:00",
+    "main": "시나리오 작성",
+    "sub": "트위치 시청(노트북)",
+    "location": ""
+  },
+  {
+    "time": "1:15",
+    "main": "시나리오 작성",
+    "sub": "트위치 시청(노트북)",
+    "location": ""
+  },
+  {
+    "time": "1:30",
+    "main": "시나리오 작성",
+    "sub": "트위치 시청(노트북)",
+    "location": ""
+  },
+  {
+    "time": "1:45",
+    "main": "프로그래밍 공부",
+    "sub": "트위치 시청(노트북)",
+    "location": ""
+  },
+  {
+    "time": "2:00",
+    "main": "프로그래밍 공부",
+    "sub": "트위치 시청(노트북)",
+    "location": ""
+  },
+  {
+    "time": "2:15",
+    "main": "프로그래밍 공부",
+    "sub": "트위치 시청(노트북)",
+    "location": ""
+  },
+  {
+    "time": "2:30",
+    "main": "프로그래밍 공부",
+    "sub": "트위치 시청(노트북)",
+    "location": ""
+  },
+  {
+    "time": "2:45",
+    "main": "프로그래밍 공부",
+    "sub": "트위치 시청(노트북)",
+    "location": ""
+  },
+  {
+    "time": "3:00",
+    "main": "취침",
+    "sub": "",
+    "location": ""
+  }
+]
