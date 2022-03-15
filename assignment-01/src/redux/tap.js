@@ -14,7 +14,7 @@ export const setStatsTap = () => ({
 });
 
 const initialState = {
-  currentTap: "time",
+  currentTap: "summary",
 };
 
 const tap = (state = initialState, action) => {
